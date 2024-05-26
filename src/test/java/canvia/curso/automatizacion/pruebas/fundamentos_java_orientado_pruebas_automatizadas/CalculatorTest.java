@@ -7,7 +7,7 @@ public class CalculatorTest {
 	@Test
 	public void testSum() {
         // Arrange: Preparar el entorno y los datos necesarios
-        Calculator calculator = new Calculator();
+        Calculadora calculator = new Calculadora();
         int a = 5;
         int b = 3;
         int expectedSum = 8;
