@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: canvia.curso.automatizacion.pruebas.fundamentos_java_orientado_pruebas_automatizadas.CalculadoraTest
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.057 s <<< FAILURE! - in canvia.curso.automatizacion.pruebas.fundamentos_java_orientado_pruebas_automatizadas.CalculadoraTest
+testDividir  Time elapsed: 0.013 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <Divisor no puede ser cero> but was: <Divisor no puede ser 0>
+	at canvia.curso.automatizacion.pruebas.fundamentos_java_orientado_pruebas_automatizadas.CalculadoraTest.testDividir(CalculadoraTest.java:48)
+
